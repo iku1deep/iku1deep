@@ -4,13 +4,13 @@
       "homepage": {
         "header": {
           "content": {
-            "header": "Header Title",
-            "description": "This will be rendered in a wysiwyg field due to the key and schema"
+            "header": "revolutioners",
+            "description": "revolution for evolution"
           }
         },
         "content": {
           "section": {
-            "header": "This is a section title",
+            "header": "Lets Change the World !",
             "image": {
               "src": "https://dummyimage.com/600x400/000/fff.png&text=Example+Image",
               "alt": "example"
@@ -19,7 +19,7 @@
         },
         "footer": {
           "content": {
-            "header": "Footer Title"
+            "header": "right to copy 2021"
           }
         }
       }
